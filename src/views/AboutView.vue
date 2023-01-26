@@ -1,5 +1,11 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+    <div class="all">
+        
+    </div>
 </template>
+
+<style scoped>
+.all {
+  color: white;
+}
+</style>
